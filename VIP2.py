@@ -20,54 +20,54 @@ else:
     import urllib.parse
 
 owner = VIPRO.LINE() #Akun Utama
-owner.login(token="EwmI8UdzrS54O0qfo3ce.mDIRQD+WthuKlYOGL7ITRG.9/vatUMsaFypyEOLQ/3EKDAHYP6HLi6VVnccPQk6KcA=")
+owner.login(token="EF8Z9oa2qBhZHP2f3OC0.nvD/uRjfRoBETK4ZOWhZSa.AtqUkO/fJZCLQtN6VBWxTjQ3Xv8Kdq18o05ab1bKvPM=")
 owner.loginResult()
     
 vipro = VIPRO.LINE()
-vipro.login(token="EwuDzAX1HOChhzFJMivb.Sp/s6yipA4kI8lGDz1Jc/W./IDEYRL3fL3zmq9ikK8ECpVJH4UzuQa9BsSXAgUOX+U=")
+vipro.login(token="EFuc5YcJ7JJqTbAZ0hQa.uA70OmZ6xGXhLjifkBHlgG.oZAgZ6VVUswPc0+Kazc1C1wvsAPusJFX6YYn9eUALXM=")
 vipro.loginResult()
 
 ki = VIPRO.LINE()
-ki.login(token="Ew3suxwI9rVEx3WWq3Ae.E3cvB3/EuaSbgNgItOaD+G.ziugTcQFH6jDu0raGf6h0KXJsxexB6fQLTqKdDCGtps=")
+ki.login(token="EFLxw9sumRWGOKOzWx87.4ciXpOp+ngV1ye23dcM5vW./Wcqb1J9BJEcXrjEEbtR4x+vBOsqpA+1+fqZ/xAKP0I=")
 ki.loginResult()
 
 ki2 = VIPRO.LINE()
-ki2.login(token="EwavsioI4SFDbOx21Dbf.H/Mm7bFIaPhQnI/uO+q/JW.kghCbYeHl5Xgo4PNoBQT1IHiWiZagzUBxWPsgD8h3t4=")
+ki2.login(token="EFuzRkr6Lovev2DZuLib.bAXEGo6vXQI0VRhomlb3MW.QC2vU8iyQ6lt+1Q3YFkEVn11PRPd6ChrZpDtMZ9IpvM=")
 ki2.loginResult()
 
 ki3 = VIPRO.LINE()
-ki3.login(token="EwlD4y728apTAvsp7Ry6.UNKe4wc3Vzi4au7QejJdvG.LwLRQkx6nzfjZNEW5cgTZ6FXE9ixDyaxVcuD0go4Yk0=")
+ki3.login(token="EF9sJWLCoUfoxPdKuzy9.4vNGKfbDYS0efY/RcqAJMq.iVBnyBMpRSISG0sJiGkjg2feGmR4UOpnwvsN70EP7HQ=")
 ki3.loginResult()
 
 ki4 = VIPRO.LINE()
-ki4.login(token="EwYbHRSbj65mgvGm9t4e./zpGMya25+N4DDp12uoThG.en6porDjYd/tl8iyTp6cR05SSq3ByTTR5TORUVYm8oY=")
+ki4.login(token="EFG6zgmRWrsHYhsXRYz9.sq7xakrN1v28/yW8CSq42q.BnZVyBT7+4ztkJz895WuUaGaO3RlbpsG36DOC53U+WA=")
 ki4.loginResult()
 
 ki5 = VIPRO.LINE()
-ki5.login(token="EwPesBWtn7rptQhB6qD5.sidob7TMb+twUwaTBGdPjq.RkbeIDb+hnrQFTGZm/2IYHolCba8RMLaV5MWcEBfZnE=")
+ki5.login(token="EFImLyxaCW6n1o8zCEn7.t/IdFcgcW7pVEtQdsL6WzW.BC7t8pWN1zwENxAyYA+WPvUL5T2H+sX6Ig13AoGKUJw=")
 ki5.loginResult()
 
 ki6 = VIPRO.LINE()
-ki6.login(token="EwCdMAea193gNSH6F7F6.cVv4a+phTNQfgRMhYCmA9G./QtTfiU3ERHOVZTHI99WIShSB4lEZP85QMHGU/Vj3fE=")
+ki6.login(token="EFBJR4qnFOPMAXUQC2Fd.JZJ/1Jhb9oyNKqIA+uiyFq.Rr4ydC+G6+bikVCL+4iZWhukvTdDE0BjabZGphdmrAk=")
 ki6.loginResult()
 
 ki7 = VIPRO.LINE()
-ki7.login(token="Ew0PytwMhzCGmyIlySpd.ONoQPJsyunccwSbSzgUGhq.zp6XpGNMqdWuAFSmwmE3pwrU9PYAFC782AfuL0CuyNM=")
+ki7.login(token="EF40lMHhHf6b3nU54FV1.f04Z5tIwN8oo0wvkaqNsqq.k1ATLrBmQEhLOKu3kBJS5vOrbYNZDimZbEnxE4T+CQs=")
 ki7.loginResult()
 
 ki8 = VIPRO.LINE()
-ki8.login(token="Ew3rie0TZYaquxx9eAL8.HCAX2+2KKOB/5O8Pwk18Ea.Csx65UYErM2J99tfAiJ0ubON5Hux4r2ItNG2Byys4Eg=")
+ki8.login(token="EF08RMHcvNLk8OS248P2.XhCwJBakhq3WIw4uZqu08G.fsJoC1T2F5hhSFOfUJ/00yKXhy7UjyFW3oCemYZAwG4=")
 ki8.loginResult()
 
 ki9 = VIPRO.LINE()
-ki9.login(token="EwyjqiFbi1zDEOGQI12c.PCLzGUGhM7XEnkYVxd3K7a.SHBsG2G5A0hKpsB5+0WK7nHZ25ETCPWC0W1R1cNq2FM=")
+ki9.login(token="EFZtRPhAAmxdwgz1AAC4./Coef04cSd1Ymaih+V2ADa.Py7G9RqTXNQygWfJJX6vga0YCFzaa0D5WAMG8/1FWes=")
 ki9.loginResult()
 
 ki10 = VIPRO.LINE() #Ghost
-ki10.login(token="EwmyEfkyrpOiKbXexm86.7Zz8lKzA4aCifjnJjRjKvG.MdaYVkBGSj+Dn9cV7czq4sh6ym+IrH4OIJuzIXaHbc4=")
+ki10.login(token="EFKaNxdkLyZ9BgV5O5Id.FNHorp+JvbRkZyckEPh7tq.uZ29Wm8SN2xp3vb2iakxfyIapYwDP+mkeB5lHOXDyIs=")
 ki10.loginResult()
 
-print "═「 BY SELFBOT-BY:MAX 」═"
+print ("═「 BY SELFBOT-BY:MAX 」═")
 reload(sys)
 sys.setdefaultencoding('utf-8')
 helpMenu="""╔═「ᴀʜʟɪ ᴋᴜʙᴜʀ™」═╗
@@ -343,10 +343,10 @@ ki8mid = ki8.getProfile().mid
 ki9mid = ki9.getProfile().mid
 ki10mid = ki10.getProfile().mid
 Smid = owner.getProfile().mid
-Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,ki10mid,Smid,"u31d8aba9dff04c75242f2a2097b8adae"]
-admin=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,Smid,"u31d8aba9dff04c75242f2a2097b8adae"]
-creator=["u31d8aba9dff04c75242f2a2097b8adae"]
-admsa=["u31d8aba9dff04c75242f2a2097b8adae"]
+Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,ki10mid,Smid,"u35577e52b245ace6deb64e33a301f3b0"]
+admin=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,Smid,"u35577e52b245ace6deb64e33a301f3b0"]
+creator=["u35577e52b245ace6deb64e33a301f3b0"]
+admsa=["u35577e52b245ace6deb64e33a301f3b0"]
 
 readOpen = codecs.open("st2__b.json","r","utf-8")
 read = json.load(readOpen)
